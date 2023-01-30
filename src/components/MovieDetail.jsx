@@ -22,7 +22,7 @@ function MovieDetail(props) {
         <span className="card-title activator grey-text text-darken-4">
           {title}
         </span>
-        <p>
+        <p className="bottom-text">
           {year} <span className="right">{type}</span>{" "}
         </p>
       </div>

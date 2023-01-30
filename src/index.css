@@ -27,3 +27,18 @@ nav{
 label:not(:last-child){
 margin-right: 5rem;
 }
+.card-image{
+  
+  height: 375px;
+}
+.bottom-text{
+  position:absolute;
+  bottom: 0;
+  height: 35px;
+  width: 80%;
+  
+}
+.card{
+  height: 600px;
+}
+
