@@ -23,6 +23,11 @@ nav{
   position: absolute;
   top: 0;
   right: 0.5rem;
+  background-color:#00695c ;
+  
+}
+.search-btn:hover{
+  background-color: #004d40;
 }
 label:not(:last-child){
 margin-right: 5rem;
@@ -42,3 +47,15 @@ margin-right: 5rem;
   height: 600px;
 }
 
+
+.githubContainer{
+  
+  height: 63px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.githubContainer:hover{
+  background-color: #004d40;
+}

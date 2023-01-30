@@ -33,15 +33,15 @@ class Search extends React.Component {
         </div>
         <div>
           <label>
-            <input name="type" type="radio" data-type="all" onChange={this.handleFilter} checked={this.state.type === 'all'}/>
+            <input className="with-gap" name="type" type="radio" data-type="all" onChange={this.handleFilter} checked={this.state.type === 'all'}/>
             <span>All</span>
           </label>
           <label>
-            <input name="type" type="radio" data-type="movie" onChange={this.handleFilter} checked={this.state.type === 'movie'}/>
+            <input className="with-gap" name="type" type="radio" data-type="movie" onChange={this.handleFilter} checked={this.state.type === 'movie'}/>
             <span>Movies only</span>
           </label>
           <label>
-            <input name="type" type="radio" data-type="series" onChange={this.handleFilter} checked={this.state.type === 'series'}/>
+            <input className="with-gap" name="type" type="radio" data-type="series" onChange={this.handleFilter} checked={this.state.type === 'series'}/>
             <span>Series only</span>
           </label>
         </div>
