@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/movies-project/static/css/main.e55b5cb0.css",
+    "main.js": "/github.io/movies-project/static/js/main.f97b29f8.js",
+    "static/media/noimage.png": "/github.io/movies-project/static/media/noimage.baba1a7394e8054d69cf.png",
+    "static/media/gitHub.svg": "/github.io/movies-project/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "index.html": "/github.io/movies-project/index.html",
+    "main.e55b5cb0.css.map": "/github.io/movies-project/static/css/main.e55b5cb0.css.map",
+    "main.f97b29f8.js.map": "/github.io/movies-project/static/js/main.f97b29f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e55b5cb0.css",
+    "static/js/main.f97b29f8.js"
+  ]
+}
